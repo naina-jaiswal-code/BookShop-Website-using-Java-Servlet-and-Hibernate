@@ -1,0 +1,2 @@
+# BookShop-Website-using-Java-Servlet-and-Hibernate
+ Build a Bookstore website that allows the customer to browse books, view details, search books, write reviews and register account and purchase books  PayPal payment integration (including credit card payment)   Technology Used: Java Servlet, JavaServer Pages(JSP), JSTL, Apache Tomcat, Hibernate framework with JPA, HTML, Javascript and jQuery, CSS, MySQL Database, Maven
